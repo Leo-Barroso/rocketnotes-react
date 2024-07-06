@@ -16,7 +16,6 @@ export const Container = styled.div`
         border: 0;
         &:placeholder {
             color: ${({theme}) => theme.COLORS.GRAY_300};
-
         }
     }
     svg {
